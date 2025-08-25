@@ -43,7 +43,7 @@ cd Tirth-ghumo-project
 Once the server is up, visit the following via your browser:
 
 - `/home` → Main Page (includes functional navigation buttons)  
-- `/login` → Login Page  
+- `/` → Login Page  
 - `/register` → Signup Page  
 - `/about` → About Page  
 - `/tours` → Tours Page  
