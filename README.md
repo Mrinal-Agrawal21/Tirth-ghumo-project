@@ -6,15 +6,11 @@ A clean and user-friendly travel-themed frontend project featuring multiple page
 
 ##  Table of Contents
 
-1. [Project Overview](#project-overview)  
-2. [Demo](#demo)  
-3. [Tech Stack](#tech-stack)  
-4. [Installation & Setup](#installation--setup)  
-5. [Available Routes](#available-routes)  
-6. [Project Structure](#project-structure)  
-7. [Future Enhancements](#future-enhancements)  
-8. [Contributing](#contributing)  
-9. [License](#license)
+1. [Project Overview](#project-overview)    
+2. [Tech Stack](#tech-stack)  
+3. [Installation & Setup](#installation--setup)  
+4. [Available Routes](#available-routes)  
+5. [Project Structure](#project-structure)  
 
 ---
 
@@ -24,11 +20,6 @@ This project is a frontend application—likely built using React and Vite (base
 
 ---
 
-##  Demo
-
-*(Optionally, insert screenshots or link to a live demo here)*
-
----
 
 ##  Tech Stack
 
@@ -46,3 +37,30 @@ Clone the repository:
 ```bash
 git clone https://github.com/Mrinal-Agrawal21/Tirth-ghumo-project.git
 cd Tirth-ghumo-project
+
+## 📌 Available Routes
+
+Once the server is up, visit the following via your browser:
+
+- `/home` → Main Page (includes functional navigation buttons)  
+- `/login` → Login Page  
+- `/register` → Signup Page  
+- `/about` → About Page  
+- `/tours` → Tours Page  
+
+---
+
+## 📂 Project Structure
+
+```text
+tirth-ghumo-project/
+├── public/                 # Static assets and public files
+├── src/                    # Source code and components
+├── .gitignore              # Ignored files
+├── README.md               # Project documentation
+├── index.html              # Main HTML template
+├── package.json            # Project scripts & dependencies
+├── tailwind.config.js      # Tailwind CSS configuration
+├── vite.config.js          # Vite configuration
+└── eslint.config.js        # ESLint configuration
+
